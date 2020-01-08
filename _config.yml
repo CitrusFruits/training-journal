@@ -3,7 +3,7 @@ description: Training hard and bringing you along for the ride
 meta_description: "Andrew's Training Train"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: http://duensing.co/
