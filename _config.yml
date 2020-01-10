@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: http://duensing.co/
+baseurl: '/'
 domain_name: 'http://duensing.co'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
