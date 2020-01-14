@@ -6,19 +6,19 @@ date:   2020-1-13 10:18:00
 
 It’s been about 2 and a half months since I started training in a more focused manner, and a little over a year since I started bike racing again. If you check out the “[About Me](/about.html)” section of this site you can read a little more about why I’ve been training, but I just wanted to recap more of the logistical timeline of what has got me here. Here’s what the timeline has been like.
 
-### September 2018
+##### September 2018
 After half a decade of being mostly off the bike, I decide that I want to bike race again.
-### Winter 2018
+##### Winter 2018
 I start training harder, with a soft goal to do a stage race in 2019.
-## January 2019
+##### January 2019
 I sign up for the [Trans-Sylvania Epic](https://www.tsepicmtb.com/).
-### May 2019
+##### May 2019
 I participate in the [Trans-Sylvania Epic](https://www.tsepicmtb.com/) and finish in the top half of the “open” category
-### October 2019
+##### October 2019
 I decide to pursue bike racing more wholeheartedly and ask for reduced time at work, starting January. I also decide to target more races and higher positions in races for 2020.
-### November 2019
+##### November 2019
 I start working with a cycling coach and training 5-6 days a week
-### January 2020
+##### January 2020
 Reduced hours at work start. I have my first race of the season.
 
 ----
