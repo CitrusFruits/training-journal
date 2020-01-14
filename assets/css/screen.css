@@ -765,6 +765,14 @@ body:not(.post-template) .post-title {
     text-decoration: none;
 }
 
+.post-meta--inline {
+    display: block;
+    margin: 1.75rem 0 0 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+    color: #9EABB3;
+}
 .post-meta {
     display: block;
     margin: 0;
@@ -773,6 +781,8 @@ body:not(.post-template) .post-title {
     line-height: 2.2rem;
     color:#3eb0ef;
 }
+
+
 
 .author-thumb {
     width: 24px;
@@ -797,6 +807,15 @@ body:not(.post-template) .post-title {
     min-height: 77px;
 }
 
+.post-date--inline {
+    display: inline-block;
+    margin-left: 8px;
+    padding-left: 12px;
+    border-left: #d5dbde 1px solid;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    white-space: nowrap;
+}
 .post-date {
     display: inline-block;
     text-transform: uppercase;
