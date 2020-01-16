@@ -8,7 +8,7 @@ date:   2020-1-15 22:00:00
 
 |  Category  | Position |
 |----------|:-------------:|
-| Overall |  12th | $1600 |
+| Overall |  12th |
 | Expert 18-29 |    1st   |
 
 
