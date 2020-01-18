@@ -4,14 +4,6 @@ title:  "Race 1 Recap (2020) - TBF MTB Kickstart"
 date:   2020-1-15 22:00:00
 ---
 
-### [Results](http://totalbodyfitness.com/site/results/mtb-kickstart-2020-pro/)
-
-|  Category  | Position |
-|----------|:-------------:|
-| Overall |  12th |
-| Expert 18-29 |    1st   |
-
-
 ### Summary
 It was a cold day, and I got to the start line a bit late due to a little confusion about the actual starting time. So, I started in last place but was pretty quickly able to move my up to the front quarter of the pack. From about 7 minutes on to the finish of the race I did not get passed, nor did I pass anyone else in my race to my knowledge.
 
@@ -30,3 +22,11 @@ I need to put more XC race oriented tires on my bike. I have some Maxxis Ikon’
 
 ### General Remarks/Conclusion
 It was a good first race of the year. I ended feeling like I still had more left in me, but it was a short race (82 minutes) so that’s not super surprising. Good training, and a good opener for the year
+
+
+### [Results](http://totalbodyfitness.com/site/results/mtb-kickstart-2020-pro/)
+
+|  Category  | Position |
+|----------|:-------------:|
+| Overall |  12th |
+| Expert 18-29 |    1st   |
