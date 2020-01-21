@@ -84,6 +84,17 @@ post_class: post-template
             {% if page.disqus %}
                 {% include disqus.html %}
             {% endif %}
+            <!-- hyvor talk -->
+            <div id="hyvor-talk-view"></div>
+            <div id="post-info" data-id="{{page.id}}" data-url="{{page.url}}"></div>
+            <script type="text/javascript">
+                var HYVOR_TALK_WEBSITE = 171; // DO NOT CHANGE THIS
+                var HYVOR_TALK_CONFIG = {
+                    url: "{{page.url}}",
+                    id: "{{page.id}}",
+                }
+            </script>
+            <script type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 
         </footer>
 
