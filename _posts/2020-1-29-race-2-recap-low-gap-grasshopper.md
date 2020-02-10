@@ -4,6 +4,11 @@ title:  "Race 2 Recap (2020) - Low Gap Grasshopper"
 date:   2020-1-29 22:00:00
 ---
 
+_Read below to find out how this happened_
+<video class="full-img" controls>
+  <source src="/assets/video/20200125_173147.mp4" type="video/mp4"/>
+</video>
+
 ### Summary
 Race 2 of the year was the Low Gap Grasshopper. The course was roughly 40 miles, 20 on road and 20 off with about 5600 feet of climbing. The bike of choice was my Motobecane Fantom cyclocross, which ended up being both the perfect tool for the job and my downfall.
 
@@ -31,3 +36,7 @@ Had a great (but hard) day, loved the course and the feel of the race and will d
 |----------|:-------------:|:-------------:|
 | Overall |  64th | 316|
 | Male 19-29 |    6th   | 23 |
+
+<video class="full-img" controls>
+  <source src="/assets/video/20200125_172016.mp4" type="video/mp4"/>
+</video>
