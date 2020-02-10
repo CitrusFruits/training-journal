@@ -5,7 +5,7 @@ date:   2020-1-30 22:00:00
 ---
 
 ### Summary
-2 races in one weekend! Ouch. Besides th TSEpic last year, I haven’t done back to back races since college.
+2 races in one weekend! Ouch. Besides the TSEpic last year, I haven’t done back to back races since college.
 
 Race 3 for me was the TBF MTB Classic. As with most of the TBF cross country bike races, this took place in Granite Bay on the trails around the western side of lake Fulsom.
 
