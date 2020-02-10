@@ -19,7 +19,7 @@ Overall, I just felt fatigued and only able to put out 85%-90%, which was to be 
 Nutrition was good, didn’t cramp, had a lot of fun. I put on the lighter tires for this race, and they worked perfectly.
 
 ### What Went Poorly
-Number plate distracted me and I got caught in the pack of the pack again. Also, I’ve noticed I have a really hard time getting to my Clif bars through my vest that I wear when it’s cold.
+Number plate distracted me and I got caught in the back of the pack again. Also, I’ve noticed I have a really hard time getting to my Clif bars through my vest that I wear when it’s cold.
 
 ### What I would like to do going forward
 I need to be a little more patient with passing the non-expert riders. I passed a rider on the downhill at a spot that they weren’t completely comfortable with and they ended up going over the bars. This is something that’s always a struggle for me with circuit races with everyone on a closed course, because you actually can lose minutes by waiting to pass riders. But, I don't ever want to make someone crash, especially at a "local" race that I'm using mostly for training.
