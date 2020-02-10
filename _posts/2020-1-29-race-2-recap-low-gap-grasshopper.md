@@ -5,7 +5,7 @@ date:   2020-1-29 22:00:00
 ---
 
 _Read below to find out how this happened_
-<video class="full-img" controls>
+<video style="max-height:300px" class="full-img" controls>
   <source src="/assets/video/20200125_173147.mp4" type="video/mp4"/>
 </video>
 
@@ -37,6 +37,6 @@ Had a great (but hard) day, loved the course and the feel of the race and will d
 | Overall |  64th | 316|
 | Male 19-29 |    6th   | 23 |
 
-<video class="full-img" controls>
+<video style="max-height:300px" class="full-img" controls>
   <source src="/assets/video/20200125_172016.mp4" type="video/mp4"/>
 </video>
